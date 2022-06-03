@@ -2,11 +2,11 @@
 Boost retail agility and accelerate your omnichannel journey
 Openbravo empowers retailers to deliver truly unified commerce experiences faster through a highly flexible cloud-based platform that provides a greater capacity to innovate and more flexibility to adapt to different shopping scenarios and fast-changing needs
 
-#Openbravo Commerce Cloud
+## Openbravo Commerce Cloud
 Cloud-based and fully modular omnichannel platform
 Comprehensive commerce functionality built on top of a highly flexible mobile and easy to integrate platform in the cloud
 
-#Openbravo Commerce Central
+## Openbravo Commerce Central
 Gain centralized and real-time omnichannel management
 Manage all your retail channels from one single point, and so gain unified, real-time visibility into your retail operations
 
@@ -18,7 +18,7 @@ Highly flexible discounts and promotions engine
 Gain flexibility to support the complexity of all your discount and promotion types
 
 
-#Openbravo Store
+## Openbravo Store
 Empower your stores with a real omnichannel retail POS
 Manage all your stores from a single point. Enable them to play an expanded role in the new retail reality with a web-based and mobile point of sale solution
 
@@ -31,12 +31,12 @@ Simplified in-store IT infrastructure
 Avoid the need for local servers while ensuring uninterrupted sales in case of connectivity loss
 
 
-#Openbravo WMS
+## Openbravo WMS
 Streamline your warehouse and inventory operations
 Improve stock handling efficiency and labor productivity. Maximize space utilization and enable omnichannel fulfillment
 
 
-#Openbravo Reporting
+## Openbravo Reporting
 Keep your omnichannel retail operations under control
 Track your day-to-day operations with built-in reporting based on the leading TIBCO Jaspersoft technology
 
@@ -47,7 +47,7 @@ Leverage a complete retail data warehouse that can be extended to support your r
 Mobile-enabled business intelligence
 Enjoy instant access to dashboards and reports using TIBCO Jaspersoft native iOS and Android mobile app.
 
-#Openbravo Technology Platform
+## Openbravo Technology Platform
 Achieve faster deployment and greater agility in the cloud
 Unleash real business agility and support growth with a flexible and high performing omnichannel platform
 
